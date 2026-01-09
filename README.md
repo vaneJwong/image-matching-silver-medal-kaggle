@@ -93,6 +93,13 @@ image-matching-silver-medal-kaggle/
 ├── results/ # Visualizations and leaderboard screenshots
 └── README.md
 
+## How to Navigate This Repository
+
+- Start with the root README for an overview of the project and results
+- See `notebooks/` for experimental analysis and exploration
+- See `src/` for core implementation of the image matching pipeline
+- See `results/` for visualizations and leaderboard screenshots
+
 ## Notes
 
 - This repository is intended for **project and portfolio showcase purposes**
